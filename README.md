@@ -1,5 +1,6 @@
-# DicomExplorer
-The main objective of this project is to develop a client and a server application using a DICOM standard. The project aims to provide a learing platform for DICOM enthusiasts by implementing various pieces of DICOM standard.
+# DicomToolkit
+The main objective of this project is to develop a SDK for writing DICOM complaint client and server applications.
+The project aims to provide a learing platform for DICOM enthusiasts by implementing various pieces of DICOM standard.
 
 To do:
 
