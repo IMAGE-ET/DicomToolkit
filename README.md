@@ -1,5 +1,5 @@
 # DicomToolkit
-The main objective of this project is to develop a SDK for writing DICOM complaint client and server applications.
+The main objective of this project is to develop a SDK for writing DICOM compliant client and server applications.
 The project aims to provide a learning platform for DICOM enthusiasts by implementing various pieces of DICOM standard.
 
 To do:
